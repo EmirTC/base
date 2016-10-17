@@ -1,6 +1,6 @@
 # base
-A basic boilerplate template using Jade, Sass and AngularJS
+A basic boilerplate template using Pug (formerly), Sass and AngularJS
 
-To install dependecies, please runSequence
+To install dependecies, please run:
 
 npm install && bower install
